@@ -3,7 +3,7 @@
 /*
 Plugin Name: WP API Lock
 Plugin URI: https://github.com/japalekhin/wp-api-lock
-Description: Who needs descriptions?
+Description: Disable WordPress front-end functionality. Just serve Admin Dashboard and REST API.
 Version: 1.0.0
 Author: Japa Alekhin Llemos <jap@alekhin.io>
 Author URI: https://jap.alekhin.io
